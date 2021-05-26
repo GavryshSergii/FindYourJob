@@ -1,6 +1,6 @@
 # findyourjob   
-Учебній проект Glo Academy
-Проект віполнил: Gavrysh Sergii
+Учебный проект Glo Academy
+Проект выполнил: Gavrysh Sergii
 
 ## Используются технологии
 - HTML
