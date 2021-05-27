@@ -27,7 +27,6 @@ body {
     display: inline-block;
     border: none;
     font-size: 16px;
-    cursor: pointer;
 }
 .button-link {
     color: #111238;
@@ -42,6 +41,7 @@ body {
     padding-bottom: 15px;
     padding-left: 30px;
     color: #FFFFFF;
+    cursor: pointer;
 }
 .button-icon {
     margin-right: 10px;
@@ -63,7 +63,7 @@ body {
 .input-group {
     background-color: #FFFFFF;
     border: 1px solid rgba(209, 209, 209, 0.1);
-    box-shadow: 0px 4px 25px rgba(15, 17, 56, 0.1);
+    box-shadow: 0 4px 25px rgba(15, 17, 56, 0.1);
     border-radius: 5px;
     padding: 10px;
     margin-bottom: 25px;
